@@ -6,7 +6,7 @@ Projeto Web services com Spring Boot e JPA / Hibernate.
 O objetivo foi, além de entender a base de várias ferramentas utilizadas no mercado de trabalho, desenvolver uma aplicação e no final fazer o deploy da mesma na plataforma de nuvem Heroku.
 
 ## Modelo conceitual
-![Modelo Conceitual]()
+![](https://github.com/pedroquintanilha/springboot-2-java-11/raw/main/MODEL.png)
 
 # Tecnologias utilizadas
 
