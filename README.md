@@ -3,7 +3,7 @@
 https://course-javasb-heroku.herokuapp.com/users
 
 Projeto Web services com Spring Boot e JPA / Hibernate. 
-O objetivo foi, além de entender a base de várias ferramentas utilizadas no mercado de trabalho, desenvolver uma aplicação e no final fazer o deploy da mesma na plataforma de nuvem Heroku.
+O objetivo foi, além de entender a base de várias ferramentas utilizadas no mercado de trabalho, desenvolver uma aplicação e no final fazer o deploy da mesma na plataforma de nuvem Heroku. A aplicação foi desenvolvida sob os ensinamentos do professor Nelio Alves da [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
 ## Modelo conceitual
 ![OI](https://github.com/pedroquintanilha/springboot-2-java-11/raw/main/Model.PNG)
